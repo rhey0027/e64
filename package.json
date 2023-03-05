@@ -1,0 +1,25 @@
+{
+  "name": "e64",
+  "version": "1.0.0",
+  "description": "middleware route api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "js",
+    "basic",
+    "application"
+  ],
+  "author": "ryu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
